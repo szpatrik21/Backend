@@ -27,5 +27,37 @@ public class JavaApplication5 {
             System.out.printf("A %d nagyobb mint %d", a, b);
         }
         
+        int egesz = 30;
+        if (egesz % 10 == 0 && egesz % 3 == 0){
+            System.out.println("A 30 osztható 10-zel és 3-mal maradék nélkül ");
+        }
+        else{
+             System.out.println("A 30 nem osztható 10-zel és 3-mal maradék nélkül ");
+        }
+        int egesz2 = 27;
+        if (egesz2 % 10 == 0 && egesz2 % 3 == 0){
+            System.out.println("A 27 osztható 10-zel és 3-mal maradék nélkül ");
+        }
+        else{
+             System.out.println("A 27 nem osztható 10-zel és 3-mal maradék nélkül ");
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
     } 
 }
